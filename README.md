@@ -16,4 +16,10 @@ The dashboard highlights a clear gender imbalance with 549 male and 248 female s
 🛒 E-Commerce Sales Data – Insights
 The analysis shows consistent year-over-year growth in sales and profit from 2011 to 2014, with peak performance in Q4 (October–December). The Consumer segment contributes the highest share of revenue and shipping cost, and Standard Class shipping is the most preferred mode. Technology and furniture sub-categories generate higher sales and profits, while some office supplies contribute lower margins. Overall, the dashboard reveals strong business growth, seasonal trends, and key revenue-driving segments.
 
+# HR Analytics dashboard link:
+<img width="1292" height="651" alt="Screenshot 2026-02-24 203325" src="https://github.com/user-attachments/assets/66d73835-7622-481a-a114-809c5f21f862" />
+📊 HR Dashboard – Insights
+The dashboard shows that Operations and Marketing have the highest number of employees, while IT and Finance have the lowest. The workforce is largely experienced, with most employees aged above 40, and fewer employees below 25. Gender distribution is perfectly balanced at 50% male and 50% female, indicating strong diversity. Recruitment is mainly driven by Job Portals, followed by Walk-ins and Referrals, showing that online hiring channels are the most effective source.
+
+
 
